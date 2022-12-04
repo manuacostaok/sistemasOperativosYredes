@@ -1,0 +1,69 @@
+
+Concurso de Hamburguesas de Hell's Kitchen!
+ 
+Equipo 2 está cortando el ajo
+Equipo 2 está cortando la cebolla
+Equipo 2 está picando perejil
+Equipo 2 terminó de picar verdura
+ 
+Equipo 2 mezcló las verduras en la carne
+Equipo 2 saló la carne y le dió forma de medallón
+ 
+Equipo 2 está usando la plancha!
+Equipo 1 está cortando el ajo
+Equipo 1 está cortando la cebolla
+Equipo 1 está picando perejil
+Equipo 1 terminó de picar verdura
+ 
+Equipo 1 mezcló las verduras en la carne
+Equipo 1 saló la carne y le dió forma de medallón
+ 
+Equipo 3 está cortando el ajo
+Equipo 3 está cortando la cebolla
+Equipo 3 está picando perejil
+Equipo 3 terminó de picar verdura
+ 
+Equipo 3 mezcló las verduras en la carne
+Equipo 3 saló la carne y le dió forma de medallón
+ 
+Equipo 2 hizo la primer hamburguesa!
+Equipo 2 está calentando la segunda hamburguesa!
+Equipo 2 terminó la segunda hamburguesa!
+ 
+Equipo 2 hizo la masa para el pan!
+Equipo 2 está usando el horno para pan!
+Equipo 1 está usando la plancha!
+Equipo 1 hizo la primer hamburguesa!
+Equipo 1 está calentando la segunda hamburguesa!
+Equipo 2 panes listos!
+ 
+Equipo 2 está cortando lechuga y tomate!
+Equipo 2 Todo listo! Hamburguesas listas!
+ 
+Equipo 2 entregó las hamburguesas!
+Equipo 1 terminó la segunda hamburguesa!
+ 
+Equipo 1 hizo la masa para el pan!
+Equipo 1 está usando el horno para pan!
+Equipo 3 está usando la plancha!
+Equipo 3 hizo la primer hamburguesa!
+Equipo 3 está calentando la segunda hamburguesa!
+Equipo 1 panes listos!
+ 
+Equipo 1 está cortando lechuga y tomate!
+Equipo 1 Todo listo! Hamburguesas listas!
+ 
+Equipo 1 entregó las hamburguesas!
+Equipo 3 terminó la segunda hamburguesa!
+ 
+Equipo 3 hizo la masa para el pan!
+Equipo 3 está usando el horno para pan!
+Equipo 3 panes listos!
+ 
+Equipo 3 está cortando lechuga y tomate!
+Equipo 3 Todo listo! Hamburguesas listas!
+ 
+Equipo 3 entregó las hamburguesas!
+
+Equipo 2 ganó! 
+Fin del Concurso!
